@@ -1,5 +1,5 @@
 # O Programa mais simples do mundo!
 
-nome = "Juliana"
+nome = "Juliana Trannin"
 
 print(f"Olá, {nome}!")

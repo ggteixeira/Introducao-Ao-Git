@@ -1,5 +1,5 @@
 # Git 101 (Parte 2)
-![](/Users/guiemi/Downloads/branches.png)
+![](https://github.com/guiemi/git_101/blob/master/branches.png)
 
 ## Intro
 

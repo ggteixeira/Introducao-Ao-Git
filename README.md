@@ -3,6 +3,8 @@
 
 ## Intro
 
+Repositório criado como exemplo para um minicurso de introdução ao Git que lecionei para meus colegas de trabalho na Redação Nota 1000.
+
 * Link para este repositório: https://github.com/guiemi/git_101
 
 ## Conteúdo
